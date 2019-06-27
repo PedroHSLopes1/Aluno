@@ -42,6 +42,10 @@ public class Aluno {
     public String toString() {
         return nome;
     }
+
+    public void setEndereco(String brasil) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
             
     
 }
